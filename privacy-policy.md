@@ -25,7 +25,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 ### 6. Your Consent
 By using our Service, you consent to our Privacy Policy and our collection and use of information in accordance with this Policy.
 
-#### 7. Contact Us
+### 7. Contact Us
 If you have questions or concerns about our Privacy Policy, please contact us at: alhashim.hussain.a@gmail.com and alhashim.nezar@gmail.com
 
 © 2024 Mystify. All rights reserved.
