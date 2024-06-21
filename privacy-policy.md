@@ -1,6 +1,6 @@
 Privacy Policy
 --------------
-Last updated: May 26, 2024
+Last updated: June 21, 2024
 
 At Mystify, owned by Nezar Alhashim and Hussain Alhashim, we value your privacy. This Privacy Policy ("Policy") describes how we collect, use, and share your personal information when you use our Mystify mobile application ("Service"). By using our Service, you agree to the terms of this Policy.
 
