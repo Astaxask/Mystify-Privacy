@@ -14,7 +14,7 @@ Improve and optimize our Service.
 Understand user behavior and preferences.
 Address technical issues and provide support.
 ### 3. Third-Party Services
-We utilize third-party services to facilitate our data collection and analysis. These third parties include Firebase Analytics. These services may have their own privacy policies, and we encourage you to review them at https://firebase.google.com/support/privacy.
+We utilize third-party services to facilitate our data collection and analysis. These third parties include Firebase Analytics. These services may have their own privacy policies, and we encourage you to review them.
 
 ### 4. Security
 We value your trust in providing us with your information, and we strive to use commercially acceptable means to protect it. However, no method of electronic storage or transmission is 100% secure, so we cannot guarantee absolute security.
